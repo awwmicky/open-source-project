@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+.env
+
+
+test.js
+test.txt
+
+
+.DS_Store
